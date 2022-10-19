@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@apollo/client": "3.6.9",
-    "@hyperwatch/hyperwatch": "3.8.2",
+    "@hyperwatch/hyperwatch": "3.9.3",
     "cloudflare-ip": "0.0.7",
     "cors": "2.8.5",
     "debug": "4.3.4",
