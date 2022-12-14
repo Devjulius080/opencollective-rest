@@ -1,4 +1,4 @@
-FROM node:11.15
+FROM node:19.3
 
 WORKDIR /usr/src/rest
 
